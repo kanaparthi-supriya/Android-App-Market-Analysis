@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This repository contains an analysis of Google Play Store data using Python. The dataset was cleaned, analyzed, and visualized to understand app categories, ratings, installs, pricing, and user reviews.
+This project analyzes Google Play Store data to understand app trends, user preferences, ratings, installs, pricing, and user sentiments using Data Analytics techniques.
 
 ## Tools Used
 
@@ -40,7 +40,3 @@ This repository contains an analysis of Google Play Store data using Python. The
 ## Conclusion
 
 The analysis helped identify app market trends and user preferences using Google Play Store data.
-
-## Author
-
-Kanaparthi Chitti
