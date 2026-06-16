@@ -2,7 +2,11 @@
 
 ## Project Overview
 
-This project analyzes Google Play Store data to understand app trends, user preferences, ratings, installs, pricing, and user sentiments using Data Analytics techniques.
+This analysis explores Google Play Store data to understand app categories, ratings, installs, pricing, and user reviews. The data is analyzed using Python to identify trends and gain useful insights about the Android app market.
+
+## Objective
+
+To analyze Google Play Store applications and user reviews, understand app performance, compare free and paid apps, study user sentiments, and visualize important trends using data analytics techniques.
 
 ## Tools Used
 
