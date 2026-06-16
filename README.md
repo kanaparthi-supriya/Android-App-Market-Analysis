@@ -15,8 +15,8 @@ This project analyzes Google Play Store data to understand app trends, user pref
 
 ## Dataset
 
-- apps.csv
-- user_reviews.csv
+- [apps.csv](https://www.kaggle.com/datasets/utshabkumarghosh/android-app-market-on-google-play)
+- [user_reviews.csv](https://www.kaggle.com/datasets/utshabkumarghosh/android-app-market-on-google-play)
 
 ## Analysis
 
